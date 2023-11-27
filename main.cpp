@@ -1,3 +1,8 @@
+// EECS 348 EC Lab 3
+// Name: Ella Nguyen
+// ID: 3098942
+// Goal: Banking System
+
 #include <iostream>
 #include <iomanip>
 #include <string>
